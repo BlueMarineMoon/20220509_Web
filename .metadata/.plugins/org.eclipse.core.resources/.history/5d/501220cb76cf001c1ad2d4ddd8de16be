@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>jspProj</h1>
+<h2>basic</h2>
+<a href="basic/01_first.jsp">01_first.jsp</a>
+<a href="basic/02_sec.html">02_sec.html</a>
+</body>
+</html>

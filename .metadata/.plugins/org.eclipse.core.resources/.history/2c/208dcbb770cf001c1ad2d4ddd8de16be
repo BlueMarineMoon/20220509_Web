@@ -1,0 +1,35 @@
+<%@page import="java.util.Date" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<% // 디렉티브 구간 %>
+<%!
+	//declaration -- 클래스 정의부
+	
+	int a = 10;
+	String b = "아기상어";
+	Date now = new Date();
+
+	void meth_1() {
+		System.out.println("meth_1() 실행");
+	}
+	
+	void meth_2() {
+		//out.println("meth_2() 실행");
+		System.out.println("meth_2() 실행");
+	}
+	/*  직접적인 실행구문 작성 불가
+	if(true) {
+		System.out.println("참이지롱");
+	}*/
+
+%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>03_lifeCycle</title>
+</head>
+<body>
+<h2>03_lifeCycle</h2>
+</body>
+</html>

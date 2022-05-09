@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+D:\ARCore\jsp_work\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4257639836.index
+2394848117.index
+4017355097.index
+2103561016.index
+326206460.index
+326206460.index
+852362019.index
+2367417009.index
+3045101612.index
